@@ -1,0 +1,8 @@
+[package]
+name = "clutch"
+version = "0.0.0"
+edition = "2021"
+rust-version = "1.58.1"
+
+[lints.clippy]
+pedantic = "deny"
